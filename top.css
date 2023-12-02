@@ -153,13 +153,13 @@ footer #under-nav .twitter a:hover {
   color: #fff;
   transition: all 0.7s;
 }
-footer #under-nav .instagram a:hover {
-  background-color: #cf2e92;
+footer #under-nav .facebook a:hover {
+  background-color: #3b5998;
   color: #fff;
   transition: all 0.7s;
 }
-footer #under-nav .go100px a:hover {
-  background-color: #000000;
+footer #under-nav .google a:hover {
+  background-color: #db4437;
   color: #fff;
   transition: all 0.7s;
 }
